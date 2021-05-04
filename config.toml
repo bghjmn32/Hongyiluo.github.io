@@ -1,7 +1,7 @@
 baseURL = "https://bghjmn32.github.io/hongyiluo.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Website of Hongyi Luo"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true

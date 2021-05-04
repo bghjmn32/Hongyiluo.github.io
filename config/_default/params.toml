@@ -1,11 +1,11 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "I'm Hongyi Luo"
+author = "Hongyi Luo"
 #copyright = "2020-2021"
-description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+description = "Data Science Studnt, History Enthusiast, Travelers, Hard-Core Gamer"
+profilePicture = "images/MyPic.jpg"
 keywords = ""
-favicon = "favicons/"
+favicon = "icon/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
@@ -41,19 +41,19 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/howieluo/"
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/bghjmn32"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/hongyi.luo/"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:luo963822@gmail.com"

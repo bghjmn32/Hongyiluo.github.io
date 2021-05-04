@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My blog</title>
+    <title>Hongyi Luo</title>
     <link>https://bghjmn32.github.io/hongyiluo.github.io/</link>
-    <description>Recent content on My blog</description>
+    <description>Recent content on Hongyi Luo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate><atom:link href="https://bghjmn32.github.io/hongyiluo.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -94,7 +94,8 @@
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://bghjmn32.github.io/hongyiluo.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
+      <description>Hi, here is Hongyi Luo, a charming boy :)
+My CV</description>
     </item>
     
   </channel>
