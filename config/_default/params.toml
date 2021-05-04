@@ -5,7 +5,7 @@ author = "Hongyi Luo"
 description = "Data Science Studnt, History Enthusiast, Travelers, Hard-Core Gamer"
 profilePicture = "images/MyPic.jpg"
 keywords = ""
-favicon = "icon/"
+favicon = "favicon/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
